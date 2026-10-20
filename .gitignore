@@ -1,0 +1,32 @@
+*.iml
+.gradle
+local.properties
+/.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+/build
+/captures
+.externalNativeBuild
+.cxx
+.kotlin/
+
+# Signing keys and credentials
+*.jks
+*.keystore
+keystore.properties
+
+# Build outputs outside build/
+*.apk
+*.aab
+/app/release/
+/app/debug/
+output-metadata.json
+
+# Logs and JVM crash files
+*.log
+hs_err_pid*
+replay_pid*
+
+# Claude Code local settings
+.claude/settings.local.json
