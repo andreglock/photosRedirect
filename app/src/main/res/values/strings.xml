@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Photos Redirect</string>
+    <string name="accessibility_description">Notices when the camera opens Google Photos and opens your photo in the app you chose instead. It only sees app names, never screen contents.</string>
 </resources>
